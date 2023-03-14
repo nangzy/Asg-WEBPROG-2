@@ -21,3 +21,9 @@ Assignment Web Prog2
 
 # Nicholaus's Profile
 ![Gambar Profile Nicholaus](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/Nicholaus-Page1.jpg)
+![Gambar_Profile_Nicholaus_2](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/Nicholaus-Page2.jpg)
+
+# Prize's Page
+![Mystery_Box_7](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/MysteryBox7.jpg)
+![Mystery_Box_55](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/MysteryBox55.jpg)
+![Mystery_Box_10](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/MysteryBox10.jpg)

@@ -8,16 +8,16 @@ Assignment Web Prog2
 <hr>
 
 # Home Page
-![Gambar Home Page](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/HomePage.jpg))
+![Gambar Home Page](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/HomePage.jpg)
 
 # Samuel's Profile
-![Gambar Profile Samuel](https://github.com/samuelchristlie/COMP6738049/blob/main/pemanasan/ScreenShot/SamuelProfile.jpg)
+![Gambar Profile Samuel](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/SamuelProfile.jpg)
 
 # Delvina's Profile
-![Gambar Profile Delvina](https://github.com/samuelchristlie/COMP6738049/blob/main/pemanasan/ScreenShot/DelvinaProfile.jpg)
+![Gambar Profile Delvina](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/DelvinaProfile.jpg)
 
 # Mary's Profile
-![Gambar Profile Mary](https://github.com/samuelchristlie/COMP6738049/raw/main/pemanasan/ScreenShot/MaryProfile.png)
+![Gambar Profile Mary](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/MaryProfile.jpg)
 
 # Nicholaus's Profile
-![Gambar Profile Nicholaus](https://github.com/samuelchristlie/COMP6738049/blob/main/pemanasan/ScreenShot/NicholausProfile.jpg)
+![Gambar Profile Nicholaus](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/Nicholaus-Page1.jpg)

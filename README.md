@@ -8,7 +8,7 @@ Assignment Web Prog2
 <hr>
 
 # Home Page
-![Gambar Home Page](https://github.com/samuelchristlie/COMP6738049/blob/main/pemanasan/ScreenShot/HomePage.jpg)
+![Gambar Home Page](https://github.com/nangzy/Asg-WEBPROG-2/blob/main/ScreenShotPage/HomePage.jpg))
 
 # Samuel's Profile
 ![Gambar Profile Samuel](https://github.com/samuelchristlie/COMP6738049/blob/main/pemanasan/ScreenShot/SamuelProfile.jpg)
